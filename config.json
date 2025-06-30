@@ -40,5 +40,15 @@
             "title": "Trending Now",
             "dataKey": "isTrending"
         }
+    },
+    "firebaseConfig": {
+      "apiKey": "AIzaSyBpJp7EPlLs5iCXczyQ6M_Xormb-Eco3fI",
+      "authDomain": "movie-f2b4f.firebaseapp.com",
+      "databaseURL": "https://movie-f2b4f-default-rtdb.firebaseio.com",
+      "projectId": "movie-f2b4f",
+      "storageBucket": "movie-f2b4f.firebasestorage.app",
+      "messagingSenderId": "496496457207",
+      "appId": "1:496496457207:web:97d6df6511c0e5ce78aaf2",
+      "measurementId": "G-KGMKHH83SD"
     }
 }
