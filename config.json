@@ -2,6 +2,16 @@
     "apiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
     "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
     "sheetName": "Sheet1",
+
+    "firebaseConfig": {
+        "apiKey": "AIzaSyABnngFPUyrBu1PnKajCjI0PELxsIILUMQ",
+        "authDomain": "movies-hub-app-135f7.firebaseapp.com",
+        "projectId": "movies-hub-app-135f7",
+        "storageBucket": "movies-hub-app-135f7.appspot.com",
+        "messagingSenderId": "728147637563",
+        "appId": "1:728147637563:web:f577d8683d34337e8f731e"
+    },
+
     "defaultAppTitleLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
     "defaultLoginScreenLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
     "emptyStateAnimationUrl": "https://assets10.lottiefiles.com/packages/lf20_GxMZME.json",
@@ -40,15 +50,5 @@
             "title": "Trending Now",
             "dataKey": "isTrending"
         }
-    },
-    "firebaseConfig": {
-      "apiKey": "AIzaSyBpJp7EPlLs5iCXczyQ6M_Xormb-Eco3fI",
-      "authDomain": "movie-f2b4f.firebaseapp.com",
-      "databaseURL": "https://movie-f2b4f-default-rtdb.firebaseio.com",
-      "projectId": "movie-f2b4f",
-      "storageBucket": "movie-f2b4f.firebasestorage.app",
-      "messagingSenderId": "496496457207",
-      "appId": "1:496496457207:web:97d6df6511c0e5ce78aaf2",
-      "measurementId": "G-KGMKHH83SD"
     }
 }
