@@ -1,54 +1,45 @@
 {
-    "apiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "googleSheetApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
     "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
-    "sheetName": "Sheet1",
-    "defaultAppTitleLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
-    "defaultLoginScreenLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
-    "emptyStateAnimationUrl": "https://assets10.lottiefiles.com/packages/lf20_GxMZME.json",
+    "sheetNames": [
+        "Sheet1",
+        "Sheet2",
+        "Sheet3"
+    ],
+    "languageSheetName": "Sheet4",
+    "firebaseConfig": {
+        "apiKey": "AIzaSyCW2hFtbqm4LEtwtlARilrMLszW_l195iA",
+        "authDomain": "dev-774a0.firebaseapp.com",
+        "projectId": "dev-774a0",
+        "storageBucket": "dev-774a0.firebasestorage.app",
+        "messagingSenderId": "185584894542",
+        "appId": "1:185584894542:web:84bce6c28af6ce1f68b91f"
+    },
     "categoryDetails": {
         "all": {
-            "name": "All Categories",
-            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/circled-menu.png"
+            "name": "Home",
+            "icon": "https://img.icons8.com/fluency-systems-filled/48/ffffff/home.png",
+            "dataKey": null
         },
         "movies": {
             "name": "Movies",
-            "dataKey": "isMovie",
-            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/clapperboard.png"
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/movie-projector.png",
+            "dataKey": "isMovie"
+        },
+        "series": {
+            "name": "Series",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/tv-show.png",
+            "dataKey": "isSeries"
         },
         "anime": {
             "name": "Anime",
-            "dataKey": "isAnime",
-            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/uchiha-eyes.png"
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/naruto-sign.png",
+            "dataKey": "isAnime"
         },
-        "music": {
-            "name": "Music",
-            "dataKey": "isMusic",
-            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/musical-notes.png"
-        },
-        "animations": {
-            "name": "Animations",
-            "dataKey": "isAnimation",
-            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/animation.png"
+        "animation": {
+            "name": "Animation",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/animation.png",
+            "dataKey": "isAnimation"
         }
-    },
-    "panelDetails": {
-        "adsPanel": {
-            "title": "Promotional Content",
-            "dataKey": "isAdPanelItem"
-        },
-        "trendingPanel": {
-            "title": "Trending Now",
-            "dataKey": "isTrending"
-        }
-    },
-    "firebaseConfig": {
-      "apiKey": "AIzaSyBpJp7EPlLs5iCXczyQ6M_Xormb-Eco3fI",
-      "authDomain": "movie-f2b4f.firebaseapp.com",
-      "databaseURL": "https://movie-f2b4f-default-rtdb.firebaseio.com",
-      "projectId": "movie-f2b4f",
-      "storageBucket": "movie-f2b4f.firebasestorage.app",
-      "messagingSenderId": "496496457207",
-      "appId": "1:496496457207:web:97d6df6511c0e5ce78aaf2",
-      "measurementId": "G-KGMKHH83SD"
     }
 }
