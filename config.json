@@ -8,12 +8,12 @@
     ],
     "languageSheetName": "Sheet4",
     "firebaseConfig": {
-        "apiKey": "AIzaSyCW2hFtbqm4LEtwtlARilrMLszW_l195iA",
-        "authDomain": "dev-774a0.firebaseapp.com",
-        "projectId": "dev-774a0",
-        "storageBucket": "dev-774a0.firebasestorage.app",
-        "messagingSenderId": "185584894542",
-        "appId": "1:185584894542:web:84bce6c28af6ce1f68b91f"
+        "apiKey": "AIzaSyDjCJBj-w8ye9x0pJJCQZvV-AG_fXu0XW0",
+        "authDomain": "movixhubnetlify.firebaseapp.com",
+        "projectId": "movixhubnetlify",
+        "storageBucket": "movixhubnetlify.firebasestorage.app",
+        "messagingSenderId": "472248490186",
+        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33"
     },
     "categoryDetails": {
         "all": {
